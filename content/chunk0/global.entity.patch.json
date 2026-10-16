@@ -8,7 +8,7 @@
 				{
 					"SetPropertyValue": {
 						"property_name": "m_fPoweredJointFallStrengthScale",
-						"value": 0.1
+						"value": 0.2
 					}
 				}
 			]
@@ -20,6 +20,17 @@
 					"SetPropertyValue": {
 						"property_name": "m_fPoweredJointImpactStrengthScale",
 						"value": 20.0
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"67348973c4f85925",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_fPoweredJointImpactDamping",
+						"value": 1500
 					}
 				}
 			]
