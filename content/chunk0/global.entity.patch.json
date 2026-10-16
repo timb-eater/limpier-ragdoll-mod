@@ -7,8 +7,41 @@
 				"67348973c4f85925",
 				{
 					"SetPropertyValue": {
+						"property_name": "m_fPoweredJointFallStrengthScale",
+						"value": 0.1
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"67348973c4f85925",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_fPoweredJointImpactStrengthScale",
+						"value": 20.0
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"67348973c4f85925",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_fPoweredRagdollsImpactBlendInTime",
+						"value": 0.2
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"67348973c4f85925",
+				{
+					"SetPropertyValue": {
 						"property_name": "m_fPoweredRagdollsImpulseScale",
-						"value": 0
+						"value": 0.5
 					}
 				}
 			]

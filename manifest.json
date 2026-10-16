@@ -5,5 +5,6 @@
 	"name": "No Active Ragdoll Mod",
 	"description": "A truly amazing mod",
 	"authors": ["timbeater"],
-	"frameworkVersion": "2.25.1"
+	"frameworkVersion": "2.25.1",
+	"contentFolders": ["content"]
 }
