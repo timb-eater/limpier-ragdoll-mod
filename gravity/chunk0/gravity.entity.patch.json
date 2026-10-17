@@ -10,7 +10,7 @@
 						"m_vGravity",
 						{
 							"type": "SVector3",
-							"value": { "x": 0.0, "y": 0.0, "z": -18 }
+							"value": { "x": 0.0, "y": 0.0, "z": -10 }
 						}
 					]
 				}

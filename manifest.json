@@ -8,18 +8,18 @@
 	"frameworkVersion": "2.25.1",
 	"options": [
 		{
-			"name": "Gravity",
-			"tooltip": "Increases the gravity to make ragdolls fall faster",
-			"enabledByDefault": false,
-			"type": "checkbox",
-			"contentFolders": ["gravity"]
-		},
-		{
 			"name": "Ragdoll",
 			"tooltip": "Reduces the stagger effect in the active ragdolls",
 			"enabledByDefault": true,
 			"type": "checkbox",
 			"contentFolders": ["ragdoll"]
+		},
+		{
+			"name": "Gravity",
+			"tooltip": "Increases the gravity to make ragdolls fall faster",
+			"enabledByDefault": false,
+			"type": "checkbox",
+			"contentFolders": ["gravity"]
 		}
 	]
 }
