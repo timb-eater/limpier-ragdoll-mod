@@ -1,9 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"id": "timbeater.limpier-ragdolls-mod",
 	"name": "Limpy Ragdolls",
-	"description": "Makes ragdolls limpy.",
+	"description": "Makes the ragdolls limpy.",
 	"authors": ["timbeater"],
 	"frameworkVersion": "2.33.42",
 	"options": [
