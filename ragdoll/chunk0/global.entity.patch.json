@@ -1,0 +1,73 @@
+{
+	"tempHash": "00097AA87B144150",
+	"tbluHash": "00E738E7CF7A35E1",
+	"patch": [
+		{
+			"SubEntityOperation": [
+				"67348973c4f85925",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_fPoweredJointFallStrengthScale",
+						"value": 0.04
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"67348973c4f85925",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_fPoweredJointImpactStrengthScale",
+						"value": 25
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"67348973c4f85925",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_fPoweredJointImpactDamping",
+						"value": 3000
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"67348973c4f85925",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_fPoweredJointFallDamping",
+						"value": 0
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"67348973c4f85925",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_fPoweredRagdollsImpactBlendInTime",
+						"value": 0.4
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"67348973c4f85925",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_fPoweredRagdollsImpulseScale",
+						"value": 1
+					}
+				}
+			]
+		}
+	],
+	"patchVersion": 6
+}
