@@ -3,7 +3,7 @@
 	"version": "0.1.0",
 	"id": "timbeater.limpier-ragdolls-mod",
 	"name": "Limpier Ragdolls",
-	"description": "A truly amazing mod",
+	"description": "Limpy ragdolls",
 	"authors": ["timbeater"],
 	"frameworkVersion": "2.25.1",
 	"options": [
