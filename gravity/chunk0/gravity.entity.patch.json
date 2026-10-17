@@ -1,0 +1,21 @@
+{
+	"tempHash": "00D438DFBD6D9739",
+	"tbluHash": "005DDDF2B8CEEB75",
+	"patch": [
+		{
+			"SubEntityOperation": [
+				"859611037148f21b",
+				{
+					"AddProperty": [
+						"m_vGravity",
+						{
+							"type": "SVector3",
+							"value": { "x": 0.0, "y": 0.0, "z": -10 }
+						}
+					]
+				}
+			]
+		}
+	],
+	"patchVersion": 6
+}
