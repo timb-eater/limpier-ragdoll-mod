@@ -8,7 +8,7 @@
 				{
 					"SetPropertyValue": {
 						"property_name": "m_fPoweredJointFallStrengthScale",
-						"value": 0.05
+						"value": 0.1
 					}
 				}
 			]
