@@ -8,7 +8,7 @@
 				{
 					"SetPropertyValue": {
 						"property_name": "m_fPoweredJointFallStrengthScale",
-						"value": 0.2
+						"value": 0.05
 					}
 				}
 			]
@@ -19,7 +19,7 @@
 				{
 					"SetPropertyValue": {
 						"property_name": "m_fPoweredJointImpactStrengthScale",
-						"value": 20.0
+						"value": 10.0
 					}
 				}
 			]
@@ -30,7 +30,18 @@
 				{
 					"SetPropertyValue": {
 						"property_name": "m_fPoweredJointImpactDamping",
-						"value": 1500
+						"value": 0
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"67348973c4f85925",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_fPoweredJointFallDamping",
+						"value": 0
 					}
 				}
 			]
@@ -41,7 +52,7 @@
 				{
 					"SetPropertyValue": {
 						"property_name": "m_fPoweredRagdollsImpactBlendInTime",
-						"value": 0.2
+						"value": 0.4
 					}
 				}
 			]
@@ -52,7 +63,7 @@
 				{
 					"SetPropertyValue": {
 						"property_name": "m_fPoweredRagdollsImpulseScale",
-						"value": 0.5
+						"value": 5
 					}
 				}
 			]
