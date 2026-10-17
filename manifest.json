@@ -1,11 +1,11 @@
 {
 	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"id": "timbeater.limpier-ragdolls-mod",
 	"name": "Limpier Ragdolls",
 	"description": "A truly amazing mod",
 	"authors": ["timbeater"],
-	"frameworkVersion": "2.25.1",
+	"frameworkVersion": "2.33.42",
 	"options": [
 		{
 			"name": "Ragdoll",
@@ -21,5 +21,6 @@
 			"type": "checkbox",
 			"contentFolders": ["gravity"]
 		}
-	]
+	],
+	"updateCheck": "https://github.com/timb-eater/limpier-ragdoll-mod/releases/latest/download/updates.json"
 }
