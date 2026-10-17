@@ -145,9 +145,7 @@ jobs:
 
             - name: Format
               if: ${{ steps.newVersion.outputs.new-release-version }}
-              uses: actionsx/prettier@v2
-              with:
-                  args: --write .
+              run: npx prettier --write --ignore-unknown .
 
             - name: Commit changes
               if: ${{ steps.newVersion.outputs.new-release-version }}

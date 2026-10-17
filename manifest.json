@@ -1,9 +1,26 @@
 {
 	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
-	"version": "0.1.0",
-	"id": "timbeater.no-active-ragdoll-mod",
-	"name": "No Active Ragdoll Mod",
-	"description": "A truly amazing mod",
+	"version": "1.0.1",
+	"id": "timbeater.limpier-ragdolls-mod",
+	"name": "Limpy Ragdolls",
+	"description": "Makes the ragdolls limpy.",
 	"authors": ["timbeater"],
-	"frameworkVersion": "2.25.1"
+	"frameworkVersion": "2.33.42",
+	"options": [
+		{
+			"name": "Ragdoll",
+			"tooltip": "Reduces the stagger effect in the active ragdolls",
+			"enabledByDefault": true,
+			"type": "checkbox",
+			"contentFolders": ["ragdoll"]
+		},
+		{
+			"name": "Gravity",
+			"tooltip": "Increases the gravity to make ragdolls fall faster",
+			"enabledByDefault": false,
+			"type": "checkbox",
+			"contentFolders": ["gravity"]
+		}
+	],
+	"updateCheck": "https://github.com/timb-eater/limpier-ragdoll-mod/releases/latest/download/updates.json"
 }
