@@ -8,7 +8,7 @@
 				{
 					"SetPropertyValue": {
 						"property_name": "m_fPoweredJointFallStrengthScale",
-						"value": 0.1
+						"value": 0.04
 					}
 				}
 			]
@@ -19,7 +19,7 @@
 				{
 					"SetPropertyValue": {
 						"property_name": "m_fPoweredJointImpactStrengthScale",
-						"value": 10.0
+						"value": 25
 					}
 				}
 			]
@@ -30,7 +30,7 @@
 				{
 					"SetPropertyValue": {
 						"property_name": "m_fPoweredJointImpactDamping",
-						"value": 0
+						"value": 3000
 					}
 				}
 			]
@@ -63,7 +63,7 @@
 				{
 					"SetPropertyValue": {
 						"property_name": "m_fPoweredRagdollsImpulseScale",
-						"value": 5
+						"value": 1
 					}
 				}
 			]
