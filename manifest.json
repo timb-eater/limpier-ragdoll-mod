@@ -12,14 +12,14 @@
 			"tooltip": "Reduces the stagger effect in the active ragdolls",
 			"enabledByDefault": true,
 			"type": "checkbox",
-			"contentFolders": ["ragdoll"]
+			"contentFolders": ["content/ragdoll"]
 		},
 		{
 			"name": "Gravity",
 			"tooltip": "Increases the gravity to make ragdolls fall faster",
 			"enabledByDefault": false,
 			"type": "checkbox",
-			"contentFolders": ["gravity"]
+			"contentFolders": ["content/gravity"]
 		}
 	],
 	"updateCheck": "https://github.com/timb-eater/limpier-ragdoll-mod/releases/latest/download/updates.json"
