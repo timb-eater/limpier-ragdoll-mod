@@ -41,7 +41,7 @@
 				{
 					"SetPropertyValue": {
 						"property_name": "m_fPoweredJointFallDamping",
-						"value": 0.45
+						"value": 2
 					}
 				}
 			]
